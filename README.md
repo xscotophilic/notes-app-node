@@ -1,7 +1,7 @@
 # **Notesapp_Node.js**
 
-#### Commands
+#### **Commands**
 ##### $ node app.js --help
 
-#### What app does?
+#### **What app does?**
 ##### simple note app using Node.js
